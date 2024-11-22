@@ -232,6 +232,99 @@ span{
            /* 3rd Section Area */
           /* My Portfolio Area */
 
+          .portfolio-container{
+ 
+            height: 650px;
+            border: 2px solid green;
+            margin: 0 auto;
+            padding: 40px 5px ;
+           
+           
+           }
+           .Portfolio-info{
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+           }
+           .Portfolio-info-title{
+               /* margin: 0 40px; */
+               text-align: center;
+           }
+           .Portfolio-para{
+               font-size:17px;
+               color: rgb(71, 70, 70);
+               margin: 0 auto;
+                  
+           }
+           
+           .Portfolio-title{
+               font-size:30px;
+           }
+           .Portfolio-info-image img{
+               width:100%;           /* Make cards full-width */
+              
+           }
+           
+           /* Portfolio-project-card-area  */
+           
+           .Portfolio-project-area{
+               height: 520px;
+                margin: 0 auto;
+               /* height: 500px; */
+               display: flex;
+           }
+           
+           .Portfolio-project-card img{
+               /* height: 250px;
+               
+               width: 250px; */
+               width:100%;
+           }
+           .Portfolio-project-card{
+               background-color:white;
+               /* padding:3%; */
+               border: 1px dotted whitesmoke;
+               text-align: center;
+                margin-left:15px;
+                border-radius: 18px;
+                box-shadow:5px 5px 15px gray;
+           }
+           
+           .Portfolio-project-title{
+               font-size:25px;
+               color: black;
+              
+              
+           }
+           .Portfolio-project-description{
+               font-size:17px;
+               padding: 0 3%;
+               /* padding-bottom: 5px; */
+           }
+           .icon-area{
+               display: flex;
+           }
+           
+           .dribbble-title{
+               font-size:20px;
+               padding-left:15px;
+           }
+           
+           .btn-icon{
+            font-size:20px;
+             border: none;
+             background-color: white;
+           }
+           
+
+
+
+
+
+
+
+
 
 
 
